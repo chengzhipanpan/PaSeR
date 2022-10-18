@@ -1,5 +1,5 @@
 # Code For PaSeR
-Our Paper [Sentence Representation Learning with Generative Objective rather than Contrastive Objective](https://arxiv.org/abs/2204.09358) is accepted by the main conference of EMNLP 2022. In this repo, we provide the code for training in the unsupervised setting.
+Our Paper [Sentence Representation Learning with Generative Objective rather than Contrastive Objective](https://arxiv.org/pdf/2210.08474.pdf) is accepted by the main conference of EMNLP 2022. In this repo, we provide the code for training in the unsupervised setting.
 
 
 ## Dependency
